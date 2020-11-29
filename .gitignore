@@ -1,5 +1,3 @@
-**/db.sqlite3
-
 .idea
 
 # Byte-compiled / optimized / DLL files
@@ -62,8 +60,8 @@ cover/
 # Django stuff:
 *.log
 local_settings.py
-db.sqlite3
-db.sqlite3-journal
+stepik_tours/db.sqlite3
+stepik_tours/db.sqlite3-journal
 
 # Flask stuff:
 instance/
